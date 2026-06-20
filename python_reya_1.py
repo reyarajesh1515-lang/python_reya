@@ -13,7 +13,7 @@ if N%2==0:
     print("Value is even")
 else:
     print("Value is odd")
- print("                                                ")
+print("                                                ")
 print("QUESTION_3")
 print("LEAP YEAR CHECKER")
 print("-------------------")

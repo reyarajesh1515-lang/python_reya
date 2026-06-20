@@ -8,7 +8,7 @@ screen.title("Animated Polygon Spiral")
 
 # Set up the turtle
 t = turtle.Turtle()
-t.speed(0)        # Moderate speed so you can easily see the movement
+t.speed(6)        # Moderate speed so you can easily see the movement
 t.width(3)        # Thicker lines to make the colors pop
 
 # Change sides to change the shape (e.g., 3 = triangle, 4 = square, 6 = hexagon)
